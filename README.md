@@ -1,4 +1,42 @@
 <h1 align="center"><b> Hi, I'm Javier Carrillo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img height="650" align="center"  src="https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg"/>
+
+## 👨‍💻 About Me  
+I am a **Development of Multiplatform Applications (DAM) student**, passionate about the world of programming.
+I love solving problems, learning new technologies, and creating **innovative and efficient** solutions.
+
+- 🌱 I’m currently learning ...
+
+
+
+
+	 <a href="https://www.w3.org/html/" target="_blank"></a> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="50" /></a>
+	 <a href="https://www.w3schools.com/css/" target="blank"> 
+ 	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" width="50" /></a> 
+	 <a href="https://www.python.org" target="blank"> 
+    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+      	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  	<a href="https://www.java.com/es/" target="blank">
+	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="javascript" width="40" height="40"/> 
+	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
+ 
+	<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="40" height="40"/>
+	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
+	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
+
+
+  
+
+
+  
+  - JAVA
+  - DART
+  - JAVASCRIPT
+  - HTML
+  - CSS
+  - SASS
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -27,15 +65,4 @@
 	
 <!-- -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
