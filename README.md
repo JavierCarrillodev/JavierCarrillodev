@@ -49,7 +49,5 @@ I’m a first-year DAM (**Development of Multiplatform Applications) student wit
 		<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/1/#inbox">
 			<img src="https://images.icon-icons.com/652/PNG/512/gmail_icon-icons.com_59877.png" height="45" width="50" ></a>
 		
-	
-<!-- -->
 
 
