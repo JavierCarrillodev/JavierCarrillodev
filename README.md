@@ -7,16 +7,18 @@ I love solving problems, learning new technologies, and creating **innovative an
 
 <h2> 👨‍💻 I’m currently learning</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,sass,dart,flutter,mysql,flutter&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,sass,dart,flutter,mysql,flutter&perline=10)](https://skillicons.dev)
 
  ## My Skills 
  
-  👀 I know how to use
+ <h3> 👀 I know how to use </h3>
   
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,sass,,mysql,git,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,sass,wordpress,mysql,git,&perline=10)](https://skillicons.dev)
 
   
-  🛠 Tools I use:
+ <h3> 🛠 Tools I use: </h3>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,vscode,eclipse,github,&perline=10)](https://skillicons.dev)
 
 
 
