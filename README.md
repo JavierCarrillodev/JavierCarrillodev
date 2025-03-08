@@ -7,43 +7,20 @@ I love solving problems, learning new technologies, and creating **innovative an
 
 - 🌱 I’m currently learning ...
 
-
-
-
-	 <a href="https://www.w3.org/html/" target="_blank"></a> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" width="50" /></a>
-	 <a href="https://www.w3schools.com/css/" target="blank"> 
- 	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" width="50" /></a> 
-	 <a href="https://www.python.org" target="blank"> 
-    	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-      	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  	<a href="https://www.java.com/es/" target="blank">
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="javascript" width="40" height="40"/> 
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
- 
-	<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" width="40" height="40"/>
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
-	<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/>
-
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,sass,dart,flutter,mysql,git,flutter&perline=15)](https://skillicons.dev)
 
   
 
 
   
-  - JAVA
-  - DART
-  - JAVASCRIPT
-  - HTML
-  - CSS
-  - SASS
+  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Jcr188">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jcr188&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jcr188&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JavierCarrillodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JavierCarrillodev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
