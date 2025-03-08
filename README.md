@@ -2,8 +2,7 @@
 <img height="650" align="center"  src="https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg"/>
 
 ## 🙂 About Me  
-I am a **Development of Multiplatform Applications (DAM) student**, passionate about the world of programming.
-I love solving problems, learning new technologies, and creating **innovative and efficient** solutions.
+I’m a first-year DAM (**Development of Multiplatform Applications) student with a passion for programming**. I enjoy working in teams, sharing knowledge, and collaborating to solve problems. **I’m always eager to learn and contribute creative solutions to improve projects and overcome challenges.**
 
 <h2> 👨‍💻 I’m currently learning</h2>
 
