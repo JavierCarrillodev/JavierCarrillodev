@@ -29,8 +29,8 @@ I’m a first-year DAM (**Development of Multiplatform Applications) student wit
 
 <p align="center">
 <a href="https://github.com/Jcr188">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavierCarrillodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCarrillodev&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javierCarrillodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierCarrillodev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
