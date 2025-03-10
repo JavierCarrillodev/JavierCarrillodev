@@ -6,7 +6,7 @@ I’m a first-year DAM (**Development of Multiplatform Applications) student wit
 
 <h2> 👨‍💻 I’m currently learning</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,sass,dart,flutter,mysql,flutter&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,sass,dart,flutter,mysql&perline=10)](https://skillicons.dev)
 
  ## My Skills 
  
