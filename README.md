@@ -49,7 +49,7 @@ I’m a first-year DAM (**Development of Multiplatform Applications) student wit
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/javiicr04?igsh=MXY2ODE5Z2FoZnZkNg==">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/1/#inbox">
-			<img src="https://images.icon-icons.com/652/PNG/512/gmail_icon-icons.com_59877.png" height="45" width="52" ></a>
+			<img src="https://images.icon-icons.com/652/PNG/512/gmail_icon-icons.com_59877.png" height="45" width="50" ></a>
 		
 
 
