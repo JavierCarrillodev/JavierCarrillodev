@@ -1,5 +1,7 @@
 <h1 align="center"><b> Hi, I'm Javier Carrillo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img height="600px" align="center"  src="https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg"/>
+<p align="center">
+  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230611/pngtree-screenshotsaturday-image_2937739.jpg" alt="Screenshot Saturday">
+</p>
 
 ## 🙂 About Me  
 I’m a first-year DAM (**Development of Multiplatform Applications) student with a passion for programming**. I enjoy working in teams, sharing knowledge, and collaborating to solve problems. **I’m always eager to learn and contribute creative solutions to improve projects and overcome challenges.**
