@@ -45,7 +45,7 @@ I’m a first-year DAM (**Development of Multiplatform Applications) student wit
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://github.com/Jcr188">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="[https://github.com/Jcr188](https://www.linkedin.com/in/javier-carrillo-ruiz-053261238/?trk=opento_sprofile_details)">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/javier-carrillo-ruiz-053261238">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/javiicr04?igsh=MXY2ODE5Z2FoZnZkNg==">
